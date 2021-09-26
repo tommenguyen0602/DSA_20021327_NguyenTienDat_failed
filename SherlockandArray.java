@@ -1,5 +1,9 @@
 import java.util.Scanner;
 //unoptimised
+/*
+optimisation approach
+
+ */
 public class SherlockandArray {
 
     public static String check(int[] arr, int middle) {
