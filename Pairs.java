@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
-import java.lang.Math.*;
+
 
 import static java.lang.Math.abs;
 
